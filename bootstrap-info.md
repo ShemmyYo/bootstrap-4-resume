@@ -42,6 +42,26 @@ __Bootstrap__
     </div>
     ```
 
+    - section
+
+    ```html
+<section class="container-fluid"> 
+        <div class="row row-table">
+        <!-- row is a standard of bootstrap -->
+        <!-- row-table adds table tructure (bootstrap) for same height -->
+            <div class="col-md-8 bg-color-three-reasons section-column">
+                <div class="row">
+                    <div class="col"></div>
+                </div>
+            </div>
+        </div>
+
+            
+    </section>
+    ```
+
+
+
 __Bootstrap index (header & footer) HTML & CSS__
 
 HTML code
